@@ -64,11 +64,19 @@
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-aspects -->
-        <dependency>
+        <dependency>d
             <groupId>org.springframework</groupId>
             <artifactId>spring-aspects</artifactId>
             <version>4.1.6.RELEASE</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-test -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-test</artifactId>
+            <version>4.1.6.RELEASE</version>
+        </dependency>
+
 
         <!-- https://mvnrepository.com/artifact/c3p0/c3p0 -->
         <dependency>
